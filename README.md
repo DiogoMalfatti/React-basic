@@ -1,1 +1,3 @@
-# React-Next
+# React-basic
+
+npx create-react-app .
